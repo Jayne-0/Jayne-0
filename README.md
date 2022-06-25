@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Jane Affamuefuna</h1>
 <h3 align="center">A passionate Software engineer from Earth.</h3>
 
-<img align="right" alt="Coding" width="400" src="https://i.gifer.com/372y.gif"/>
+<img align="right" alt="Coding" width="700" height="500" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/media/5c8264a20b247115b68e6c2f4c97d5e6.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jayne-0&label=Profile%20views&color=0e75b6&style=flat" alt="jayne-0" /> </p>
 
 <p align="left"> <a href="https://twitter.com/janeizzy240" target="blank"><img src="https://img.shields.io/twitter/follow/janeizzy240?logo=twitter&style=for-the-badge" alt="janeizzy240" /></a> </p>
