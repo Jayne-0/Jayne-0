@@ -1,4 +1,4 @@
-### “ In order to be irreplaceable, one must always be different”-DC  👋
+### “ In order to be irreplaceable, one must always be different”
 
 <h1 align="center">Hi there 👋, I'm Jane Affamuefuna</h1>
 <h3 align="center">A passionate Software engineer from Earth.</h3>
