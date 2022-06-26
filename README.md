@@ -1,6 +1,6 @@
-### Hi there 👋
+### “ In order to be irreplaceable, one must always be different”-DC  👋
 
-<h1 align="center">Hi 👋, I'm Jane Affamuefuna</h1>
+<h1 align="center">Hi there 👋, I'm Jane Affamuefuna</h1>
 <h3 align="center">A passionate Software engineer from Earth.</h3>
 
 <img align="right" alt="Coding" width="700" height="500" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/media/5c8264a20b247115b68e6c2f4c97d5e6.gif">
